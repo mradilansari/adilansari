@@ -1,0 +1,33 @@
+html {
+    background-color: whitesmoke;
+}
+
+img {
+    height: 200px;
+}
+
+.left-center-align {
+    margin-left: 90px;
+}
+
+h3 {
+    background-color: lightseagreen;
+    color: white;
+    font-family: calibri, sans-serif;
+    padding-left: 50px;
+}
+
+.project-names {
+    display: inline-block;
+    text-align: center;
+    color: blueviolet;
+    font-family: cursive;
+}
+
+.box {
+    margin: 200px;
+}
+
+.travel-pics {
+    height: 250px;
+}
